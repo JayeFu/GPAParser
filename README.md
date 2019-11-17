@@ -4,6 +4,20 @@
 
 目前只能把所有课程记下来，算出必限任的成绩。如何区分必限和任选，依然有待后续。
 
+# 依赖
+
+beautifulsoup4
+
+```bash
+pip install beautifulsoup4
+```
+
+xlsxwriter
+
+```bash
+pip install xlsxwriter
+```
+
 # 使用方法
 
 1. 登录info，点击下图中红方框标出的按钮。
